@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- :point_right:	Java Python JavaScript
-- :point_right: Golang进行中...
+
+- :point_right:	Java、Python、JavaScript
+- 🌱 I’m currently learning Golang...
+
 <!--
 **emhum/emhum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
