@@ -2,7 +2,8 @@
 
 - :point_right:	Java、Python、JavaScript
 - 🌱 I’m currently learning Golang...
-- 📫 How to reach me: error.intype@gmail.com
+- 📫 How to reach me: 
+-- error.intype@gmail.com
 
 <!--
 **emhum/emhum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
