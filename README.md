@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :point_right:	Java、Python、Nodejs
+- :point_right:	Java、Python、JavaScript
 - 🌱 I’m currently learning Golang...
 
 <!--
